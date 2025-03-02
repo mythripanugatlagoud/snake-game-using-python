@@ -17,31 +17,7 @@ Programming Language: Python
 Game Library: pygame
 Randomization: random (for food placement)
 Version Control: Git & GitHub
-How to Play
-Clone the Repository:
-sh
-Copy
-Edit
-git clone https://github.com/code-with-charles/python-snake-game.git
-cd snake-game
-Install Dependencies:
-sh
-Copy
-Edit
-pip install pygame
-Run the Game:
-sh
-Copy
-Edit
-python snake.py
-Controls:
-Arrow Keys: Move the snake (Up, Down, Left, Right)
-ESC Key: Quit the game
-Fork the repository.
-Create a new branch: git checkout -b feature-new
-Make changes & commit: git commit -m "Added new feature"
-Push to your branch: git push origin feature-new
-Create a pull request.
+
 Conclusion
 This Snake Game is a great beginner-friendly project for learning game development using pygame. Feel free to fork, modify, or contribute to the project!
 
